@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Socar 🚙
+- 🌱 I’m currently learning iOS 👩‍💻
+- 📫 How to reach me: cmindy.soft@gmail.com
